@@ -438,6 +438,9 @@ section .title::after{
 .skills-content .right .PHP::before{
     width: 70%;
 }
+.skills-content .right .bootstrap::before{
+    width: 70%;
+}
 .skills-content .right .PYTHON::before{
     width: 60%;
 }
